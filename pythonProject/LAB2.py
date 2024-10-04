@@ -29,7 +29,10 @@ def max_of_two(x,y): #Функция 3.2
     else:
         return set_nums(x,y)
 
-def if_prime(number):
+
+
+
+def if_prime(number): #Функция 5
     x = 0
     try:
         number = int(number)
